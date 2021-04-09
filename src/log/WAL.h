@@ -1,0 +1,1 @@
+class WAL { public: void Append(string log); };
