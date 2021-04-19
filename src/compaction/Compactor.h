@@ -1,0 +1,1 @@
+class Compactor { public: void Compact(); };
