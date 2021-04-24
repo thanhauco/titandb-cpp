@@ -1,0 +1,1 @@
+#include <iostream>\nint main() { std::cout << "TitanDB Started" << std::endl; return 0; }
